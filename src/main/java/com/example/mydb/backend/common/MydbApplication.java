@@ -12,10 +12,10 @@ import org.apache.commons.cli.CommandLineParser;
 import org.apache.commons.cli.DefaultParser;
 import org.apache.commons.cli.Options;
 import org.apache.commons.cli.ParseException;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
+//import org.springframework.boot.autoconfigure.SpringBootApplication;
 import com.example.mydb.other.Error;
 
-@SpringBootApplication
+//@SpringBootApplication
 public class MydbApplication {
 
 	public static final int port = 9999;
